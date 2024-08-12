@@ -273,3 +273,4 @@ C:\Users\davio\Documentos\Projetos\IWantApp\obj\Debug\net8.0\refint\IWantApp.dll
 C:\Users\davio\Documentos\Projetos\IWantApp\obj\Debug\net8.0\IWantApp.pdb
 C:\Users\davio\Documentos\Projetos\IWantApp\obj\Debug\net8.0\IWantApp.genruntimeconfig.cache
 C:\Users\davio\Documentos\Projetos\IWantApp\obj\Debug\net8.0\ref\IWantApp.dll
+C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\Flunt.dll
