@@ -144,6 +144,7 @@ C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\IWantApp.dll
 C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\IWantApp.pdb
 C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\Dapper.dll
 C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\EntityFramework.SqlServer.dll
 C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\EntityFramework.dll
 C:\Users\davio\Documentos\Projetos\IWantApp\bin\Debug\net8.0\Flunt.dll
